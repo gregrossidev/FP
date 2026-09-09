@@ -5,7 +5,7 @@ print("Adivinhe o número que estou penando entre 1 e 100")
 print("Você tem 8 tentativas")
 
 numero_secreto = random.randint(1,100)
-contador = 7
+contador = 8
 acertou = False
 
 while contador > 0:
