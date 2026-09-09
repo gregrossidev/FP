@@ -2,7 +2,7 @@ import random
 
 print("Joguin")
 print("Adivinhe o número que estou penando entre 1 e 100")
-print("Você tem 7 tentativas")
+print("Você tem 8 tentativas")
 
 numero_secreto = random.randint(1,100)
 contador = 7
